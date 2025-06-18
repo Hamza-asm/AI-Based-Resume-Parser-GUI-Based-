@@ -28,9 +28,9 @@ The tool expects a CSV file with the following two columns:
 
 | Category     | Resume                          |
 |--------------|----------------------------------|
-| Data Science | [Resume text goes here...]       |
-| HR           | [Resume text goes here...]       |
-| Web Developer | [Resume text goes here...]     |
+| Data Science | Areas of Interest Deep Learning, Control System Design, Programming in-Python, Electric Machinery, Web Development, Analytics Technical Activities       |
+| HR           | Training in Special Education (Certificate Course) Education Details July 2016 to October 2018 M.Sc Psychology with specialization in Organizational Behaviour Malappuram, Kerala Calicut University |
+| Web Developer | Technical Skills Web Technologies: Angular JS, HTML5, CSS3, SASS, Bootstrap, Jquery, Javascript. Software: Brackets, Visual Studio, Photoshop, Visual Studio Code     |
 
 ---
 
